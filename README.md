@@ -1,3 +1,3 @@
 # LandingPage
 
-This is a basic landing page project using only HTML and CSS.
+This is a basic landing page template using only HTML and CSS.
